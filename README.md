@@ -1,8 +1,8 @@
 # Tackmi 
 ## About Tackmi
-[Tackmi](https://peanutbutterclassic.github.io/insync/) is a fully integrated environmental data collection tool that enables users to record field data and analyse the data against real-time environmental conditions to create a report for monitoring and permitting purposes. 
+[Tackmi](https://peanutbutterclassic.github.io/tackmi/) is a fully integrated environmental data collection tool that enables users to record field data and analyse the data against real-time environmental conditions to create a report for monitoring and permitting purposes. 
 
-The [Tackmi](https://peanutbutterclassic.github.io/insync/) website is easy to navigate since it is intuitive and provides ease of use for people with disabilities.
+The [Tackmi](https://peanutbutterclassic.github.io/tackmi/) application will be easy to navigate since it will be intuitive and will provide ease of use for users working in the field of environmental monitoring.
 
 ![Responsive Mockup](https://raw.githubusercontent.com/peanutbutterclassic/insync/master/assets/documentation/ami_respon_main.png)
 
